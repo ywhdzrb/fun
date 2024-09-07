@@ -112,7 +112,7 @@ def downloadapi():
     api.join()
     api_win.join()
     api_arg.join()
-    game()
+
     win2.destroy()
 
 def warning():
